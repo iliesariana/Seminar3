@@ -49,6 +49,25 @@ the motions of planet Aranxia.
 What would you like the princess to do?
 (6) Interrupt the witch and get back on track (10) Let her finish the song
 
+(4) The ghost is the first scholar that the princess meets. The ghost is a very experienced spell caster and he is very eager to help the princess.
+The ghost is very experienced and ready to help the princess but his help comes with a prcie.
+The ghost needs a spell to come alive again and he needs the princess to help with it.
+The spell is really risky beause if it goes worng all of it's kingdom will be cursed, but the ghost is the only one that can help the princess
+learn how to use github.
+What should the princess do?
+(8) Help the ghost with the spell (12) Refuse to help the ghost
+
+(8) The princess decides to help the ghost with the spell, but the road to achieving it is long and dangerous.
+The princess must go to the forbidden forest and find the rarest flower in the world, the moonflower.
+The moonflower is a very rare flower that only blooms once every 100 years and it is said that it's petals are made of pure silver.
+She successfully finds the flower and brings it back to the ghost. They make together the spell, and the princess makes it.
+For a split seconds it seems that went wrong and the princes is devastated, but then the ghost comes back to life smiling and starts teaching the princess how to use github.
+
+(12) The princess refuses to help the ghost with the spell and the ghost disappears in a puff of smoke. The princess is left alone in the room and she doesn't know what to do.
+She goes back to her room and starts crying, but then she hears a voice in her head that tells her to go to the forbidden forest.
+The princess goes to the forest and finds creatures that she never knew existed. The creature promises to help her learn github but
+only if she will marry him at the end.
+
 (6) Ooooooooh, you chose to interrupt the witch, thing that makes her really angry and now she starts throwing spells at the the princess.
 The princess is more confused now and she starts to get anxious. 
 "Please, let me tell you why I need your help!", says the princess.
