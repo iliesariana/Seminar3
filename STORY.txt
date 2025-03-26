@@ -29,3 +29,14 @@ Who should the princess meet first? Be careful, your choice will affect the stor
 
     What should Alec do now? Lie about his experience or stay true to himself?
     Lie (13) or say the truth (17)
+    
+(9)
+    <<Ew why is he... like that?>> she thought to herself.
+    "Oh.. she looks.. disgusted" he said under his breath.
+    "I'm sorry?" 
+    "Nothing of importance! Hello miss, my name is Alec and I'll assist you in learning github"
+    "I'm sorry to say but you don't look too.. confident"
+    "I can assure you I am well equipt to answer all of your questions."
+    "Is that so?"
+
+    Go to (21) if you want her to be nice to him or (25) if she'd want another scholar because she feels uncomfortable with his expertise.
