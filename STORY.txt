@@ -10,6 +10,37 @@ The forth scholar is ghost with a lot of spell experience so far.
 Who should the princess meet first? Be careful, your choice will affect the storyline. What choice should the princess make?
 (1) First scholar (2) Second scholar (3) Third scholar (4) Forth scholar
 
+(1)
+    The first scholar entered shily into the damsel's chamber. 
+    The very first thing he noticed was her amazing beauty, golden locks and blue eyes.
+    His face turned red as a tomato within seconds.
+    "H-Hello, miss... N-nice to see you! I MEAN - meet you" escaped his lips.
+    The young lady noticed his shyness right away.
+
+    How should the damsel react like?
+    Go to (5) if you want her to think he was cute, or (9) if she's offended by his unprofessionalism.
+
+(5)
+    The princess responds, matching his shyness: "Hello to you too!"
+    The young man snaps back into his usual, serious persona. He's taken aback by his own actions.
+    "How could I have been so indecent?" he said to himself.
+    "I'm very sorry for my clumsy introduction. My name is Alec and I'm very happy to assist you in whatever you'll need me."
+    "Thank you Alec, that's very nice of you! I'm hearing you're quite new to this as well?"
+
+    What should Alec do now? Lie about his experience or stay true to himself?
+    Lie (13) or say the truth (17)
+    
+(9)
+    <<Ew why is he... like that?>> she thought to herself.
+    "Oh.. she looks.. disgusted" he said under his breath.
+    "I'm sorry?" 
+    "Nothing of importance! Hello miss, my name is Alec and I'll assist you in learning github"
+    "I'm sorry to say but you don't look too.. confident"
+    "I can assure you I am well equipt to answer all of your questions."
+    "Is that so?"
+
+    Go to (21) if you want her to be nice to him or (25) if she'd want another scholar because she feels uncomfortable with his expertise.
+
 (2) YEEES!!! You chose the witch as the first audience. Let's go on with our story...
 The princess enters the audience room and she notices an awful smell coming from the right corner of the room. The witch is already there, 
 waiting for her, with a spaced-out look on her face.
@@ -18,11 +49,31 @@ the motions of planet Aranxia.
 What would you like the princess to do?
 (6) Interrupt the witch and get back on track (10) Let her finish the song
 
+(4) The ghost is the first scholar that the princess meets. The ghost is a very experienced spell caster and he is very eager to help the princess.
+The ghost is very experienced and ready to help the princess but his help comes with a prcie.
+The ghost needs a spell to come alive again and he needs the princess to help with it.
+The spell is really risky beause if it goes worng all of it's kingdom will be cursed, but the ghost is the only one that can help the princess
+learn how to use github.
+What should the princess do?
+(8) Help the ghost with the spell (12) Refuse to help the ghost
+
+(8) The princess decides to help the ghost with the spell, but the road to achieving it is long and dangerous.
+The princess must go to the forbidden forest and find the rarest flower in the world, the moonflower.
+The moonflower is a very rare flower that only blooms once every 100 years and it is said that it's petals are made of pure silver.
+She successfully finds the flower and brings it back to the ghost. They make together the spell, and the princess makes it.
+For a split seconds it seems that went wrong and the princes is devastated, but then the ghost comes back to life smiling and starts teaching the princess how to use github.
+
+(12) The princess refuses to help the ghost with the spell and the ghost disappears in a puff of smoke. The princess is left alone in the room and she doesn't know what to do.
+She goes back to her room and starts crying, but then she hears a voice in her head that tells her to go to the forbidden forest.
+The princess goes to the forest and finds creatures that she never knew existed. The creature promises to help her learn github but
+only if she will marry him at the end.
+
 (6) Ooooooooh, you chose to interrupt the witch, thing that makes her really angry and now she starts throwing spells at the the princess.
 The princess is more confused now and she starts to get anxious. 
 "Please, let me tell you why I need your help!", says the princess.
 "You have disturbed my ancient planet-star crossing ritual!!! You have doomed you people to 1000 years of drought, you stupid child!!!!", says angrily the crazy witch.
 The princess runs from the room, crying, learning how to manage github dissappearing from her top-priorities. :)))
+
 
 (10) You chose to torture the princess' years with another 5 minutes of non-stop singing from the witch, but at least the scholar is calm and collected now, 
 ready to teach our princess the basics of git. 
@@ -30,3 +81,4 @@ ready to teach our princess the basics of git.
 "Here, here, drink this potion on the next full moon, when Aranxia is in conjuncture with Plaon and the knowledge will magically appear in your
 little, pretty brain of yours.", says exctited the witch as she hands the princess a green, weird looking potion.
 THAT WAS THE WIERD SMELL FROM THE CORNER. No way the princess will drink that. She leaves dissapointed.
+
