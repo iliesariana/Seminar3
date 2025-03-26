@@ -9,3 +9,13 @@ The forth scholar is ghost with a lot of spell experience so far.
 
 Who should the princess meet first? Be careful, your choice will affect the storyline. What choice should the princess make?
 (1) First scholar (2) Second scholar (3) Third scholar (4) Forth scholar
+
+(1)
+    The first scholar entered shily into the damsel's chamber. 
+    The very first thing he noticed was her amazing beauty, golden locks and blue eyes.
+    His face turned red as a tomato within seconds.
+    "H-Hello, miss... N-nice to see you! I MEAN - meet you" escaped his lips.
+    The young lady noticed his shyness right away.
+
+    How should the damsel react like?
+    Go to (5) if you want her to think he was cute, or (9) if she's offended by his unprofessionalism.
