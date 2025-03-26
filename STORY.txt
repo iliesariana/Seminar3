@@ -19,3 +19,13 @@ Who should the princess meet first? Be careful, your choice will affect the stor
 
     How should the damsel react like?
     Go to (5) if you want her to think he was cute, or (9) if she's offended by his unprofessionalism.
+
+(5)
+    The princess responds, matching his shyness: "Hello to you too!"
+    The young man snaps back into his usual, serious persona. He's taken aback by his own actions.
+    "How could I have been so indecent?" he said to himself.
+    "I'm very sorry for my clumsy introduction. My name is Alec and I'm very happy to assist you in whatever you'll need me."
+    "Thank you Alec, that's very nice of you! I'm hearing you're quite new to this as well?"
+
+    What should Alec do now? Lie about his experience or stay true to himself?
+    Lie (13) or say the truth (17)
