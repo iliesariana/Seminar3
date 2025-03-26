@@ -17,3 +17,11 @@ You begin to introduce yourself and the problem you have faced with github and b
 the motions of planet Aranxia. 
 What would you like the princess to do?
 (6) Interrupt the witch and get back on track (10) Let her finish the song
+
+(4) The ghost is the first scholar that the princess meets. The ghost is a very experienced spell caster and he is very eager to help the princess.
+The ghost is very experienced and ready to help the princess but his help comes with a prcie.
+The ghost needs a spell to come alive again and he needs the princess to help with it.
+The spell is really risky beause if it goes worng all of it's kingdom will be cursed, but the ghost is the only one that can help the princess
+learn how to use github.
+What should the princess do?
+(8) Help the ghost with the spell (12) Refuse to help the ghost
