@@ -15,3 +15,10 @@ Who should the princess meet first? Be careful, your choice will affect the stor
     Between the four scholars, the goblin might look like the best candidate for helping the princess, but that is the exact opposite.
     The creature wants to lead the damsel to mistakes while working on github, with the purpose of capturing her crown and also her GitHub Repositories!!!
     The damsel made the wrong choice
+(2) YEEES!!! You chose the witch as the first audience. Let's go on with our story...
+The princess enters the audience room and she notices an awful smell coming from the right corner of the room. The witch is already there, 
+waiting for her, with a spaced-out look on her face.
+You begin to introduce yourself and the problem you have faced with github and branching so far but the witch stars humming a song about 
+the motions of planet Aranxia. 
+What would you like the princess to do?
+(6) Interrupt the witch and get back on track (10) Let her finish the song
