@@ -25,3 +25,9 @@ The spell is really risky beause if it goes worng all of it's kingdom will be cu
 learn how to use github.
 What should the princess do?
 (8) Help the ghost with the spell (12) Refuse to help the ghost
+
+(8) The princess decides to help the ghost with the spell, but the road to achieving it is long and dangerous.
+The princess must go to the forbidden forest and find the rarest flower in the world, the moonflower.
+The moonflower is a very rare flower that only blooms once every 100 years and it is said that it's petals are made of pure silver.
+She successfully finds the flower and brings it back to the ghost. They make together the spell, and the princess makes it.
+For a split seconds it seems that went wrong and the princes is devastated, but then the ghost comes back to life smiling and starts teaching the princess how to use github.
