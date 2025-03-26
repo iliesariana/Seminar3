@@ -10,6 +10,37 @@ The forth scholar is ghost with a lot of spell experience so far.
 Who should the princess meet first? Be careful, your choice will affect the storyline. What choice should the princess make?
 (1) First scholar (2) Second scholar (3) Third scholar (4) Forth scholar
 
+(1)
+    The first scholar entered shily into the damsel's chamber. 
+    The very first thing he noticed was her amazing beauty, golden locks and blue eyes.
+    His face turned red as a tomato within seconds.
+    "H-Hello, miss... N-nice to see you! I MEAN - meet you" escaped his lips.
+    The young lady noticed his shyness right away.
+
+    How should the damsel react like?
+    Go to (5) if you want her to think he was cute, or (9) if she's offended by his unprofessionalism.
+
+(5)
+    The princess responds, matching his shyness: "Hello to you too!"
+    The young man snaps back into his usual, serious persona. He's taken aback by his own actions.
+    "How could I have been so indecent?" he said to himself.
+    "I'm very sorry for my clumsy introduction. My name is Alec and I'm very happy to assist you in whatever you'll need me."
+    "Thank you Alec, that's very nice of you! I'm hearing you're quite new to this as well?"
+
+    What should Alec do now? Lie about his experience or stay true to himself?
+    Lie (13) or say the truth (17)
+    
+(9)
+    <<Ew why is he... like that?>> she thought to herself.
+    "Oh.. she looks.. disgusted" he said under his breath.
+    "I'm sorry?" 
+    "Nothing of importance! Hello miss, my name is Alec and I'll assist you in learning github"
+    "I'm sorry to say but you don't look too.. confident"
+    "I can assure you I am well equipt to answer all of your questions."
+    "Is that so?"
+
+    Go to (21) if you want her to be nice to him or (25) if she'd want another scholar because she feels uncomfortable with his expertise.
+
 (2) YEEES!!! You chose the witch as the first audience. Let's go on with our story...
 The princess enters the audience room and she notices an awful smell coming from the right corner of the room. The witch is already there, 
 waiting for her, with a spaced-out look on her face.
@@ -23,3 +54,4 @@ The princess is more confused now and she starts to get anxious.
 "Please, let me tell you why I need your help!", says the princess.
 "You have disturbed my ancient planet-star crossing ritual!!! You have doomed you people to 1000 years of drought, you stupid child!!!!", says angrily the crazy witch.
 The princess runs from the room, crying, learning how to manage github dissappearing from her top-priorities. :)))
+
