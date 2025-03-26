@@ -31,3 +31,8 @@ The princess must go to the forbidden forest and find the rarest flower in the w
 The moonflower is a very rare flower that only blooms once every 100 years and it is said that it's petals are made of pure silver.
 She successfully finds the flower and brings it back to the ghost. They make together the spell, and the princess makes it.
 For a split seconds it seems that went wrong and the princes is devastated, but then the ghost comes back to life smiling and starts teaching the princess how to use github.
+
+(12) The princess refuses to help the ghost with the spell and the ghost disappears in a puff of smoke. The princess is left alone in the room and she doesn't know what to do.
+She goes back to her room and starts crying, but then she hears a voice in her head that tells her to go to the forbidden forest.
+The princess goes to the forest and finds creatures that she never knew existed. The creature promises to help her learn github but
+only if she will marry him at the end.
