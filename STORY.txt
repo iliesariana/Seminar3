@@ -10,15 +10,67 @@ The forth scholar is ghost with a lot of spell experience so far.
 Who should the princess meet first? Be careful, your choice will affect the storyline. What choice should the princess make?
 (1) First scholar (2) Second scholar (3) Third scholar (4) Forth scholar
 
-
-(3)
-    Between the four scholars, the goblin might look like the best candidate for helping the princess, but that is the exact opposite.
-    The creature wants to lead the damsel to mistakes while working on github, with the purpose of capturing her crown and also her GitHub Repositories!!!
-    The damsel made the wrong choice
 (2) YEEES!!! You chose the witch as the first audience. Let's go on with our story...
 The princess enters the audience room and she notices an awful smell coming from the right corner of the room. The witch is already there, 
 waiting for her, with a spaced-out look on her face.
 You begin to introduce yourself and the problem you have faced with github and branching so far but the witch stars humming a song about 
 the motions of planet Aranxia. 
 What would you like the princess to do?
+
+(3)
+    Ouch!
+    Between the four scholars, the goblin might look like the best candidate for helping the princess, but that is the exact opposite.
+    The creature wants to lead the damsel to mistakes while working on github, with the purpose of capturing her crown and also her GitHub Repositories!!!
+    Choices you make will determine the faith of our main character. She made the wrong choice, but that's why you are here.
+
+    She created the repository to work on and the goblin asked the princess to put him as a contributor in her project:
+    (7) Add the Goblin to the Repository  (11) Don't add him to the Repository
+    
+
 (6) Interrupt the witch and get back on track (10) Let her finish the song
+
+
+
+(7) 
+    You think this will not be a problem for now. I repeat FOR NOW.
+    The goblin took over the main branch and changes it frequently so the damsel is wasting her time resolving conflicts.
+    He will stop doing this only if the damsel gives him either the password to her GitHub acount or her expensive crown.
+    What should she do?
+    (15)Give him the password  (19)Give him the crown  (23)Try to fight back
+
+(11)
+    Great choice!
+    The goblin is furious and starts attacking the damsel. The guards come in to rescue the princess.
+    He takes the laptop of the princess, puts it in his backpack, jumps through the window and lands in the river that surrounds the castle.
+    What should she do?
+    (27)Jump through the window (31)Let the guards get him
+
+(15)
+    Urgh...
+    YOU SHOULD NEVER EVER GIVE YOUR PASSWORDS!
+    The goblin goes through all her accounts, 
+
+(19)
+    You give him the crown. Thinking he is safe, he jumps through the window and lands in the river that surrounds the castle.
+    The damsel terrified about what the king would say she is panicking.
+    What should the damsel do?
+    (27)Jump through the window (35)Let him get away with it
+
+(23)
+    You try to fight back and end up scaring the goblin.
+    The creature didn't expect a princess to be so powerful.
+    You escaped with the crown and the GitHub account safe.
+
+(27)
+    You jump through the window and realise the damsel doesn't know how to swim.
+    She drowns before the guards arrive to help her.
+
+(31)
+    The guards alert the city, everybody runs to catch the goblin.
+    The goblin is caught, the laptop is returned. Everybody is safe.
+    Congratulations!
+
+(35)
+    He got away with the crown, but you kept your GitHub account safe.
+    The king is furious and exiles the damsel.
+    :(((
